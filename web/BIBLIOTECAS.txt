@@ -1,0 +1,3 @@
+https://styled-components.com/docs/basics#installation
+npm install axios // Faz as requisições para api 
+npm install cors // Erro Cors do backAnd

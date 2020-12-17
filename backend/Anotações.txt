@@ -1,0 +1,9 @@
+npm init -y  'Iniciar um projeto nodejs'
+npm install express - Responsalvel por deixar nosso servidor online e recebe requicicoes.
+
+
+npm init -y  'Iniciar um projeto nodejs'
+npm install express - Responsável por deixar nosso servidor online e recebe requisições. 
+npm install -g nodemon - monitorará quaisquer alterações e reiniciará automaticamente o servidor
+npm install nodemon -D  – Instalação de desenvolvimento
+npm install mongoose  -  dependência de desenvolvimento
